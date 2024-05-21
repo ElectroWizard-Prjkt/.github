@@ -25,7 +25,7 @@ We strive to support a wide range of Android devices. Check the folders to see i
 1. **Find Your Device:** Navigate to the folder for your specific device model.
 2. **Explore:** Check out the available kernels, ROMs, guides, and resources.
 3. **Flash with Confidence:** Follow our detailed instructions for a smooth installation process.
-4. **Join the Community:** Connect with fellow Soulvibe users on our [forums/Discord/Telegram] (link).
+4. **Join the Community:** Connect with fellow Soulvibe users on our Telegram.
 
 ## Contributing 🤝
 
@@ -37,7 +37,7 @@ Flashing custom software carries inherent risks. Proceed with caution and make s
 
 ## Connect with Us 🌐
 
-* **Forums/Discord/Telegram:** [https://t.me/paradox-kernel]
+* **Telegram:** [https://t.me/paradox_kernel](https://t.me/paradox_kernel)
 
 ## Credits 🙏
 
@@ -47,4 +47,4 @@ Special thanks to the open-source community and all the developers who have cont
 
 Let's vibe together and elevate your Android experience!
 
-**#Soulvibe #AndroidCustomization #CustomKernels #CustomROMs**
+**#Soulvibe #AndroidCustomization #CustomKernels #KeepSoulvibe**
