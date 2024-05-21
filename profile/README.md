@@ -4,28 +4,14 @@ Welcome to the heart of Soulvibe's Android development endeavors! This repositor
 
 ## About Soulvibe 💫
 
-We're a passionate team of Android enthusiasts, dedicated to pushing the boundaries of what's possible on your device. Our mission is to empower you with the tools to personalize and optimize your Android journey.
+We're a passionate team of Android enthusiasts, dedicated to pushing the boundaries of what's possible on your device.and optimize your Android journey.
 
-## Repository Structure 📂
+## Get Started 🏁
 
-This repository is organized by device for easy navigation:
-
-* `/ALL IN HERE/`
-    * Kernels
-    * Tree
-    * Guides
-    * Resources
-
-## Supported Devices 🚀
-
-We strive to support a wide range of Android devices. Check the folders to see if your device is listed. If not, let us know, and we'll see what we can do!
-
-## How to Get Started 🏁
-
-1. **Find Your Device:** Navigate to the folder for your specific device model.
-2. **Explore:** Check out the available kernels, ROMs, guides, and resources.
-3. **Flash with Confidence:** Follow our detailed instructions for a smooth installation process.
-4. **Join the Community:** Connect with fellow Soulvibe users on our Telegram.
+1. Find your device's folder.
+2. Explore kernels, ROMs, guides, and resources.
+3. Follow our instructions to flash.
+4. Join us on Telegram: [https://t.me/paradox_kernel](https://t.me/paradox_kernel)
 
 ## Contributing 🤝
 
@@ -33,7 +19,7 @@ We welcome contributions from the community! If you have a kernel, ROM, guide, o
 
 ## Disclaimer ⚠️
 
-Flashing custom software carries inherent risks. Proceed with caution and make sure to back up your data before making any changes. Soulvibe is not responsible for any damage to your device.
+Flashing custom software carries risks. Back up your data and proceed with caution.
 
 ## Connect with Us 🌐
 
@@ -41,10 +27,11 @@ Flashing custom software carries inherent risks. Proceed with caution and make s
 
 ## Credits 🙏
 
-Special thanks to the open-source community and all the developers who have contributed to the Android ecosystem.
+Special thanks to the open-source community and all the developers who have contributed.
 
 ---
 
-Let's vibe together and elevate your Android experience!
+Elevate your Android experience with Soulvibe.
+
 
 **#Soulvibe #AndroidCustomization #CustomKernels #KeepSoulvibe**
