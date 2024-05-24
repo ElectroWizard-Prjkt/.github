@@ -9,7 +9,7 @@ We're a passionate team of Android enthusiasts, dedicated to pushing the boundar
 ## Get Started 🏁
 
 1. Find your device's folder.
-2. Explore kernels, ROMs, guides, and resources.
+2. Explore kernels, guides, and resources.
 3. Follow our instructions to flash.
 4. Join us on Telegram: [https://t.me/paradox_kernel](https://t.me/paradox_kernel)
 
