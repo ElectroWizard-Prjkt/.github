@@ -11,7 +11,7 @@ We're a passionate team of Android enthusiasts, dedicated to pushing the boundar
 1. Find your device's folder.
 2. Explore kernels, guides, and resources.
 3. Follow our instructions to flash.
-4. Join us on Telegram: [https://t.me/paradox_kernel](https://t.me/paradox_kernel)
+4. Join us on Telegram: [https://t.me/wzrdgrp](https://t.me/wzrdgrp)
 
 ## Contributing 🤝
 
@@ -23,8 +23,7 @@ Flashing custom software carries risks. Back up your data and proceed with cauti
 
 ## Connect with Us 🌐
 
-* **Telegram:** [https://t.me/paradox_kernel](https://t.me/paradox_kernel)
-
+* **Telegram:** [https://t.me/wzrdgrp](https://t.me/wzrdgrp)
 ## Credits 🙏
 
 Special thanks to the open-source community and all the developers who have contributed.
